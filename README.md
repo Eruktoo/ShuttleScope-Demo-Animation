@@ -1,6 +1,6 @@
 # ShuttleScope Demo Animation
 
-用 Manim (3Blue1Brown 动画引擎) 制作的羽绒球数据分析介绍视频。
+用 Manim (3Blue1Brown 动画引擎) 制作的羽毛球数据分析介绍视频。
 
 ## 工作流
 
